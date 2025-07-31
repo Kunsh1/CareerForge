@@ -35,9 +35,7 @@ The challenge is to create an Interview Trainer Agent, powered by RAG, that prep
 
 ## 🤖 Agent in Action (Demo)
 
-Here's a preview of the agent helping a user prepare for a Senior Software Engineer interview.
-
-**(You can insert the screenshots from your presentation here!)**
+Here's a preview of the agent helping a user for interview.
 
 **Example 1: Initial Query**
 ![Screenshot of the agent's initial response](screenshots/agent_demo_1.png)
