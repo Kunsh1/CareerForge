@@ -74,7 +74,7 @@ To deploy this agent yourself, you will need an IBM Cloud account.
     ```sh
     git clone [Your GitHub Repository URL]
     ```
-2.  **Open the Notebook**: Navigate to the `/notebooks` directory and open the `ibm_watsonx_deployment_notebook.ipynb` file.
+2.  **Open the Notebook**: Navigate to the `/notebooks` directory and open the `CareerForge_deployment_notebook.ipynb` file.
 3.  **Follow the Steps**: The notebook contains all the necessary code and instructions to configure and deploy the AI agent using the IBM Watsonx SDK.
 4.  **Run and Deploy**: Execute the cells in the notebook to deploy your own instance of the Interview Trainer Agent.
 
