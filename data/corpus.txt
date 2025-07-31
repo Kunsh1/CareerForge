@@ -1,0 +1,108 @@
+### 1. Foundational Behavioral Questions
+
+Behavioral questions use the STAR method (Situation, Task, Action, Result) to assess core competencies:
+
+* **Adaptability**: Handling change (“Describe a major change you went through and how you adapted.”)
+* **Assertiveness**: Standing your ground (“When did you take a firm stand with a colleague?”)
+* **Attention to Detail**: Accuracy (“Describe a task where precision was critical.”)
+* **Communication**: Explaining complex ideas effectively (“Explain a complex idea to someone with limited knowledge.”)
+* **Creativity**: Innovation (“When did you invent a new approach to solve a problem?”)
+* **Customer Service**: Managing difficult clients (“Tell me about a challenging customer situation you handled.”)
+* **Decisiveness**: Quick decisions (“Describe a time you made a fast decision with major impact.”)
+* **Developing Others**: Coaching and mentoring (“When did you coach someone to improve performance?”)
+* **Other competencies**: Reliability, initiative, teamwork, stress management, professionalism.
+
+---
+
+### 2. General & Common Interview Questions
+
+These assess motivation, fit, and self-awareness:
+
+* **Self-Assessment & Goals**: “Tell me about yourself.” “Walk me through your resume.” “Where do you see yourself in five years?”
+* **Company & Role Interest**: “Why our company?” “What do you know about us?”
+* **Strengths & Weaknesses**: Self-awareness & honesty check.
+* **Situational/Problem-Solving**: “Describe a conflict or problem you solved.”
+* **Questions for Interviewer**: Ask about team challenges, company culture, career paths.
+
+---
+
+### 3. Industry-Specific Interview Questions
+
+Tailored to domain-specific skills:
+
+* **Accounting & Finance**: Reporting, risk management, finance tools.
+* **Healthcare & Nursing**: Clinical care, ethics, patient-handling under pressure.
+* **Human Resources**: Employment law, recruiting, employee relations, HR systems.
+* **IT / Tech**: System design, dev methodologies (e.g. Agile), troubleshooting.
+* **Marketing & Sales**: Campaign analysis, customer engagement, market trends.
+* **Energy Sector**: Renewable energy, project adaptability.
+* **Aviation**: Safety protocols, technical problem-solving.
+
+---
+
+### 4. Role-Specific Technical Questions
+
+Evaluates domain knowledge:
+
+* **Web Development**: Front‑end (HTML/CSS/JS/frameworks like React); back‑end (APIs, Python, Java); full‑stack.
+* **Database Admin**: SQL, data modeling, performance tuning (MySQL, PostgreSQL).
+* **DevOps / SRE**: CI/CD (Jenkins), IaC (Terraform), containers (Docker/K8s), monitoring.
+* **Data Science & Analytics**: Statistics, ML, Python/R, SQL, solving business critical problems.
+* **Machine Learning & AI**: Algorithms, deep learning (CNN, RNN), frameworks like TensorFlow or PyTorch.
+* **Software Engineering**: Data structures, algorithms, system design, OOP.
+
+---
+
+### 5. Interview Questions by Experience Level
+
+Adjust based on candidate stage:
+
+* **Entry‑Level**: Focus on academic projects, internships, learning potential.
+* **Mid‑Level**: Showcase project experience, depth of work, independent contribution.
+* **Senior / Leadership**: Emphasis on strategic thinking, team leadership, measurable business outcomes.
+* **Executive**: Organizational leadership, growth strategy, governance, stakeholder impact.
+
+---
+
+### 6. Structured Interviewing Frameworks & Templates
+
+Standardize interviews for fairness and clarity:
+
+* **Protocol Elements**:
+
+  * Define domain and core questions.
+  * Use consistent leadoff questions and follow‑ups.
+  * Score using standardized rubrics.
+
+* **Answer Frameworks**:
+
+  * **STAR** (Situation, Task, Action, Result)
+  * **CARL** (Context, Action, Result, Learning)
+  * **SOAR** (Situation, Obstacle, Action, Result)
+
+* **Templates**:
+
+  ```
+  Introduction → candidate info → questions (behavioral & technical) → interviewer notes → scoring
+  ```
+
+* **Best Practices**:
+
+  * Base questions on job analysis.
+  * Train interviewers for consistent delivery.
+  * Ask identical core questions across candidates to reduce bias.
+
+---
+
+### 7. Niche & Specialized Interview Formats
+
+Specific interview types used in select fields:
+
+* **Case Interviews** (e.g. consulting): Analyze and solve business scenarios.
+* **Leadership & Management**: Questions on team building, decision style, strategic planning.
+* **UX / Design Roles**: Portfolio walkthroughs, user-centered design thinking, research processes.
+* **International Interviews**: Include localized regulatory or cultural context (e.g. PF/ESIC in India, or compliance awareness in China).
+
+---
+
+Let me know if you'd like this turned into a ready-to-upload corpus file or formatted per role—including sample chunks for technical questions or STAR-based behavioral prompts!
