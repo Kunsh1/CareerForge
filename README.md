@@ -59,10 +59,11 @@ Here's a preview of the agent helping a user for interview.
 
 The agent uses a Retrieval-Augmented Generation (RAG) architecture:
 
-1.  **User Input**: The user provides their job role, industry, and experience level (e.g., "Help me prepare for a Junior Data Analyst interview").
-2.  **Retrieval**: The agent uses this input to retrieve relevant, up-to-date information from connected data sources, such as interview question databases, professional networking guides, and HR best practices.
-3.  **Augmentation**: The retrieved information (the "context") is then passed to the IBM Granite LLM along with the original user prompt.
-4.  **Generation**: The LLM uses the provided context to generate a high-quality, relevant, and supportive response, ensuring the answers are grounded in real-world data and not hallucinated.
+1.  **Vector Index Creation**: The content of `corpus.txt` is ingested by IBM Watsonx to create a searchable vector index. This process happens before the agent is deployed.
+2.  **User Input**: The user provides their job role, industry, and experience level (e.g., "Help me prepare for a Junior Data Analyst interview").
+3.  **Retrieval**: The agent uses this input to retrieve relevant, up-to-date information from connected data sources, such as interview question databases, professional networking guides, and HR best practices.
+4.  **Augmentation**: The retrieved information (the "context") is then passed to the IBM Granite LLM along with the original user prompt.
+5.  **Generation**: The LLM uses the provided context to generate a high-quality, relevant, and supportive response, ensuring the answers are grounded in real-world data and not hallucinated.
 
 ---
 
