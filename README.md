@@ -72,7 +72,7 @@ To deploy this agent yourself, you will need an IBM Cloud account.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [Your GitHub Repository URL]
+    git clone https://github.com/Kunsh1/CareerForge.git
     ```
 2.  **Open the Notebook**: Navigate to the `/notebooks` directory and open the `CareerForge_deployment_notebook.ipynb` file.
 3.  **Follow the Steps**: The notebook contains all the necessary code and instructions to configure and deploy the AI agent using the IBM Watsonx SDK.
