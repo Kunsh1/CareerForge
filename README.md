@@ -38,10 +38,10 @@ The challenge is to create an Interview Trainer Agent, powered by RAG, that prep
 Here's a preview of the agent helping a user for interview.
 
 **Example 1: Initial Query**
-![Screenshot of the agent's initial response](screenshots/agent_demo_1.png)
+![Screenshot of the agent's initial response](screenshots/deployed1.png)
 
 **Example 2: Requesting a Model Answer**
-![Screenshot of the agent providing a model answer](screenshots/agent_demo_2.png)
+![Screenshot of the agent providing a model answer](screenshots/deployed2.png)
 
 ---
 
