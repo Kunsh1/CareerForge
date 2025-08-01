@@ -1,4 +1,4 @@
-# IBM Hackathon: AI Interview Trainer Agent
+# AI Interview Trainer Agent
 
 A conversational AI agent built with IBM Watsonx and Retrieval-Augmented Generation (RAG) to help users prepare for job interviews.
 
